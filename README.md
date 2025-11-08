@@ -12,3 +12,6 @@ With the flag -n you can enter your record name.
 After that installing a cronjob with:
 
 */10 * * * *  bash ./ddns.sh -n Your-Record-Name 
+
+
+Have fun and send issues in the issue tab (That would be really nice)
