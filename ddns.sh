@@ -5,9 +5,9 @@ set -euo pipefail
 # Updates a Hetzner Cloud zone rrset A record to the current public IPv4.
 #
 # Usage: ./ddns.sh [-t API_TOKEN] [-z ZONE_ID] [-n RRSET_NAME]
-#   -t: Hetzner API token (required if API_TOKEN not set)
-#   -z: Zone ID (default: 64901)
-#   -n: RRSET name (default: info.cloud)
+#   -t: Hetzner API token 
+#   -z: Zone ID 
+#   -n: RRSET name 
 
 # Default values
 API_TOKEN="Your-API-Token"
